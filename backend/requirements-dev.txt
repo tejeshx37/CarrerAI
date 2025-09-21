@@ -1,0 +1,12 @@
+# Development Dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+black==23.9.1
+flake8==6.1.0
+isort==5.12.0
+mypy==1.6.1
+pre-commit==3.5.0
+httpx==0.25.2
+factory-boy==3.3.0
+freezegun==1.2.2
