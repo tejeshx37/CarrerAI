@@ -1,0 +1,2 @@
+# CareerBridgeAI FastAPI Backend
+
