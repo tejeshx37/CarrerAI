@@ -344,9 +344,3 @@ CareerBridgeAI supports webhooks for real-time notifications:
 }
 ```
 
-## Support
-
-For API support and questions:
-- **Documentation**: [API Docs](https://github.com/tejeshx37/CarrerAI/docs)
-- **Issues**: [GitHub Issues](https://github.com/tejeshx37/CarrerAI/issues)
-- **Email**: api-support@careerbridgeai.com

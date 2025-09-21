@@ -216,19 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Community** for excellent documentation
 - **Flask Community** for robust backend framework
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/tejeshx37/CarrerAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tejeshx37/CarrerAI/discussions)
-- **Email**: [Contact Support](mailto:support@careerbridgeai.com)
-
-## 🔮 Roadmap
-
-- [ ] **AI Chatbot Integration**: Real-time career counseling
-- [ ] **Video Interview Practice**: AI-powered interview simulations
-- [ ] **Skill Certification**: Industry-recognized skill assessments
-- [ ] **Mentorship Platform**: Connect with industry professionals
-- [ ] **Mobile App**: Native iOS and Android applications
 
 ---
 

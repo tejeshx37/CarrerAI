@@ -66,24 +66,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Authentication**: JWT-based authentication
 - **Deployment**: Docker support
 
-## [Unreleased]
-
-### 🚀 Planned Features
-- **AI Chatbot Integration**: Real-time career counseling
-- **Video Interview Practice**: AI-powered interview simulations
-- **Skill Certification**: Industry-recognized skill assessments
-- **Mentorship Platform**: Connect with industry professionals
-- **Mobile App**: Native iOS and Android applications
-- **Advanced Analytics**: Detailed user progress tracking
-- **Multi-language Support**: Internationalization
-- **Social Features**: User communities and networking
-
-### 🔧 Technical Improvements
-- **Performance Optimization**: Faster loading and better caching
-- **Advanced Testing**: Comprehensive test coverage
-- **CI/CD Pipeline**: Automated testing and deployment
-- **Monitoring**: Application performance monitoring
-- **Security Enhancements**: Advanced security features
 
 ---
 
@@ -101,9 +83,3 @@ We use [Semantic Versioning](https://semver.org/) for version numbers:
 - **MINOR** version for backwards-compatible functionality additions
 - **PATCH** version for backwards-compatible bug fixes
 
-## 📞 Support
-
-For questions about changes or updates:
-- **GitHub Issues**: [Report Issues](https://github.com/tejeshx37/CarrerAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tejeshx37/CarrerAI/discussions)
-- **Email**: [support@careerbridgeai.com](mailto:support@careerbridgeai.com)

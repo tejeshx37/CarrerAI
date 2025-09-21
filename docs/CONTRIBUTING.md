@@ -482,21 +482,6 @@ We use [Semantic Versioning](https://semver.org/):
 - [ ] **Tag release** - Create git tag
 - [ ] **Deploy** - Deploy to production
 
-## 📞 Getting Help
-
-### Communication Channels
-
-- **GitHub Discussions** - General questions and ideas
-- **GitHub Issues** - Bug reports and feature requests
-- **Discord** - Real-time chat (invite link in README)
-- **Email** - [contributors@careerbridgeai.com](mailto:contributors@careerbridgeai.com)
-
-### Mentorship
-
-New contributors can request mentorship:
-- **Mentor matching** - Pair with experienced contributors
-- **Code review** - Detailed feedback on contributions
-- **Guidance** - Help with complex features
 
 ## 🏆 Recognition
 

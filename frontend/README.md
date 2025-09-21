@@ -338,9 +338,3 @@ ReactGA.send({ hitType: 'pageview', page: window.location.pathname });
 npm install --save-dev webpack-bundle-analyzer
 npm run analyze
 ```
-
-## 📞 Support
-
-- **Documentation**: [Frontend Docs](../docs/)
-- **Issues**: [GitHub Issues](https://github.com/tejeshx37/CarrerAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tejeshx37/CarrerAI/discussions)

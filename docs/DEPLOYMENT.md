@@ -462,9 +462,3 @@ docker stats
 docker run -m 1g careerbridge-backend
 ```
 
-## 📞 Support
-
-For deployment issues:
-- **Documentation**: [Deployment Docs](https://github.com/tejeshx37/CarrerAI/docs)
-- **Issues**: [GitHub Issues](https://github.com/tejeshx37/CarrerAI/issues)
-- **Email**: deploy-support@careerbridgeai.com
